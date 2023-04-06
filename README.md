@@ -19,7 +19,7 @@
    
 7. Install the following packages numpy, pandas, jupyter, scikit-learn, and Plotly in the environment by running the following command:
 
-   `conda install numpy pandas jupyter scikit-learn plotly`
+   `conda install -y numpy pandas jupyter scikit-learn plotly`
    
 8. Wait for the packages to finish installing.
 9. Go to the Git download page: https://git-scm.com/downloads, download and install your appropriate installer 
